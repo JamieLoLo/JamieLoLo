@@ -1,5 +1,9 @@
 ![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamieLoLo&theme=calm_pink&show_icons=true)
 
+<h3>CONTACT</h3>
+
+[![](https://img.shields.io/badge/jamielo0320@gmail.com-EA4234?logo=gamil&logoColor=fff&style=for-the-badge)](jamielo0320@gmail.com)
+
 <h3>BLOG</h3>
 
 [![](https://img.shields.io/badge/MEDIUM-242937?logo=medium&logoColor=fff&style=for-the-badge)](https://medium.com/@jamielolo)
