@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/MEDIUM-242937?logo=medium&logoColor=fff&style=for-the-badge)](https://medium.com/@jamielolo)
 
-
+<img src='https://img.shields.io/badge/MEDIUM-242937?logo=medium&logoColor=fff&style=for-the-badge' />
 
 <h3>FRONTEND</h3>
 
