@@ -2,7 +2,9 @@
 
 <h3>BLOG</h3>
 
-![][(https://img.shields.io/badge/-MEDIUM-242937?style=for-the-badge&logo=medium&logoColor=ffffff)](https://medium.com/@jamielolo)
+[![](https://img.shields.io/badge/-MEDIUM-242937?style=for-the-badge&logo=medium&logoColor=ffffff)](https://medium.com/@jamielolo)
+
+
 
 
 <h3>FRONTEND</h3>
