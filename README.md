@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/jamielo0320@gmail.com-EA4234?logo=gamil&logoColor=fff&style=for-the-badge)](jamielo0320@gmail.com)
 
 <a href="mailto:jamielo0320@gmail.com">
-  <img src="https://img.shields.io/badge/jamielo0320@gmail.com-242937?logo=gamil&logoColor=EA4234&style=for-the-badge" alt="mail_icon"/>
+  <img src="https://img.shields.io/badge/jamielo0320@gmail.com-242937?logo=gmail&logoColor=EA4234&style=for-the-badge" alt="mail_icon"/>
 </a>
 
 <img src='https://img.shields.io/badge/jamielo0320@gmail.com-EA4234?logo=gamil&logoColor=fff&style=for-the-badge' />
