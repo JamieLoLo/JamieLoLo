@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamieLoLo&theme=calm_pink&show_icons=true)
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<!-- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">  -->
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
