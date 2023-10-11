@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/-MEDIUM-242937?style=for-the-badge&logo=medium&logoColor=ffffff)](https://medium.com/@jamielolo)
 
-[![](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=medium&logoColor=fff&style=flat)](https://medium.com/@jamielolo)
+[![](https://img.shields.io/badge/MEDIUM-242937?logo=medium&logoColor=fff&style=flat)](https://medium.com/@jamielolo)
 
 
 
