@@ -2,7 +2,7 @@
 
 <h3>CONTACT</h3>
 
-<a href="mailto:jamielo0320@gmail.com" style='margin-right:20px;'>
+<a href="mailto:jamielo0320@gmail.com" style="margin-right:'20px';">
   <img src="https://img.shields.io/badge/jamielo0320@gmail.com-ffffff?logo=gmail&logoColor=EA4234&style=for-the-badge" alt="mail_icon"/>
 </a>
 
