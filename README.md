@@ -2,4 +2,4 @@
 
 <h3>FRONTEND</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind)](https://skillicons.dev)
