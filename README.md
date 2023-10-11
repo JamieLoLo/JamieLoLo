@@ -2,7 +2,7 @@
 
 <h3>BLOG</h3>
 
-![](https://img.shields.io/badge/-MEDIUM-CCC?style=for-the-badge&logo=medium&logoColor=ffffff)
+![](https://img.shields.io/badge/-MEDIUM-242937?style=for-the-badge&logo=medium&logoColor=ffffff)
 
 
 <h3>FRONTEND</h3>
