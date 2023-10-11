@@ -2,11 +2,7 @@
 
 <h3>BLOG</h3>
 
-[![](https://img.shields.io/badge/MEDIUM-242937?logo=medium&logoColor=fff&style=for-the-badge)](https://medium.com/@jamielolo){:target="_blank"}
-
-<a href='https://medium.com/@jamielolo' target='_blank'>
-  <img src='https://img.shields.io/badge/MEDIUM-242937?logo=medium&logoColor=fff&style=for-the-badge' />
-<a/>
+[![](https://img.shields.io/badge/MEDIUM-242937?logo=medium&logoColor=fff&style=for-the-badge)](https://medium.com/@jamielolo)
 
 <h3>FRONTEND</h3>
 
