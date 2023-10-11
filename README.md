@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/jamielo0320@gmail.com-242937?logo=gamil&logoColor=EA4234&style=for-the-badge" alt="mail_icon"/>
 </a>
 
+<img src='https://img.shields.io/badge/jamielo0320@gmail.com-EA4234?logo=gamil&logoColor=fff&style=for-the-badge' />
+
+
 <h3>BLOG</h3>
 
 [![](https://img.shields.io/badge/MEDIUM-242937?logo=medium&logoColor=fff&style=for-the-badge)](https://medium.com/@jamielolo)
