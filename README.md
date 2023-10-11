@@ -1,5 +1,10 @@
 ![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamieLoLo&theme=calm_pink&show_icons=true)
 
+<h3>BLOG</h3>
+
+![](https://img.shields.io/badge/-MEDIUM-CCC?style=for-the-badge&logo=medium&logoColor=ffffff)
+
+
 <h3>FRONTEND</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nextjs,tailwind,bootstrap	)](https://skillicons.dev)
