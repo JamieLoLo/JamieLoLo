@@ -2,9 +2,12 @@
 
 <h3>FRONTEND</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,redux,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap	)](https://skillicons.dev)
 
 <h3>BACKEND</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
+<h3>OTHERS</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
