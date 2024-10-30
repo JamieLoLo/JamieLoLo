@@ -1,3 +1,8 @@
+<div style="width:100%;display:flex;justify-content:center;">
+  <img src="./cover.gif" style="width:100%;object-fit:contain;" />
+</div>
+
+
 <h3>CONTACT</h3>
 
 <a href="mailto:jamielo0320@gmail.com">
