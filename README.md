@@ -14,6 +14,7 @@
 
 <h3>Front-End</h3>
 
+<img src="https://img.shields.io/badge/HTML5-ffffff?logo=html5&logoColor=E34F26&style=for-the-badge" alt="mail_icon"/>
 <img src="https://img.shields.io/badge/Next.js-ffffff?logo=nextdotjs&logoColor=000000&style=for-the-badge" alt="mail_icon"/>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,bootstrap)](https://skillicons.dev)
