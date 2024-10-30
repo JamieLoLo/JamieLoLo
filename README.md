@@ -1,5 +1,3 @@
-![Jamie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamieLoLo&theme=calm_pink&show_icons=true)
-
 <h3>CONTACT</h3>
 
 <a href="mailto:jamielo0320@gmail.com">
