@@ -15,16 +15,20 @@
 
 [![](https://img.shields.io/badge/MEDIUM-242937?logo=medium&logoColor=fff&style=for-the-badge)](https://medium.com/@jamielolo)
 
-<h3>FRONTEND</h3>
+<h3>Front-Ene</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,bootstrap)](https://skillicons.dev)
 </br>
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux)](https://skillicons.dev)
+</br>
+[![My Skills](https://skillicons.dev/icons?i=threejs)](https://skillicons.dev)
 
-<h3>BACKEND</h3>
+<h3>Back-End</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,express)](https://skillicons.dev)
+</br>
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sequelize,postgres)](https://skillicons.dev)
 
-<h3>OTHERS</h3>
+<h3>Others</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,vercel,postman)](https://skillicons.dev)
