@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-0B66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="mail_icon"/>
 </a>
 
+  <img src="https://img.shields.io/badge/LINKEDIN-0B66C2?logo=nextdotjs&logoColor=#000000&style=for-the-badge" alt="mail_icon"/>
 
 <h3>BLOG</h3>
 
