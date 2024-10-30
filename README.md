@@ -1,5 +1,7 @@
 <img src="./cover.gif" style="width:100%;min-width:100%;object-fit:contain;" width="100%" height="auto" />
 
+[Photo by Gabriel Vasconcelos on Pinterest](https://www.pinterest.com/pin/149463281367079974/)
+
 <h3>CONTACT</h3>
 
 <a href="mailto:jamielo0320@gmail.com">
