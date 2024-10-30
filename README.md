@@ -1,7 +1,4 @@
-<div style="width:100%;display:flex;justify-content:center;">
-  <img src="./cover.gif" style="width:100%;object-fit:contain;" />
-</div>
-
+<img src="./cover.gif" style="width:100%;min-width:100%;object-fit:contain;" width="100%" height="auto" />
 
 <h3>CONTACT</h3>
 
