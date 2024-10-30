@@ -18,11 +18,12 @@
 <h3>FRONTEND</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nextjs,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux)](https://skillicons.dev)
 
 <h3>BACKEND</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,nextjs)](https://skillicons.dev)
 
 <h3>OTHERS</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=postman,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,vercel,postman)](https://skillicons.dev)
