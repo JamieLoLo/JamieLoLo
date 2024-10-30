@@ -18,6 +18,7 @@
 <h3>FRONTEND</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nextjs,tailwind,bootstrap)](https://skillicons.dev)
+</br>
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux)](https://skillicons.dev)
 
 <h3>BACKEND</h3>
