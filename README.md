@@ -25,4 +25,4 @@
 
 <h3>OTHERS</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,aws)](https://skillicons.dev)
