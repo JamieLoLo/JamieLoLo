@@ -8,14 +8,13 @@
   <img src="https://img.shields.io/badge/LINKEDIN-0B66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="mail_icon"/>
 </a>
 
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=000000&style=for-the-badge" alt="mail_icon"/>
-
-
 <h3>BLOG</h3>
 
 [![](https://img.shields.io/badge/MEDIUM-242937?logo=medium&logoColor=fff&style=for-the-badge)](https://medium.com/@jamielolo)
 
 <h3>Front-End</h3>
+
+<img src="https://img.shields.io/badge/Next.js-ffffff?logo=nextdotjs&logoColor=000000&style=for-the-badge" alt="mail_icon"/>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,bootstrap)](https://skillicons.dev)
 </br>
