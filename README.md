@@ -15,7 +15,7 @@
 
 [![](https://img.shields.io/badge/MEDIUM-242937?logo=medium&logoColor=fff&style=for-the-badge)](https://medium.com/@jamielolo)
 
-<h3>Front-Ene</h3>
+<h3>Front-End</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,bootstrap)](https://skillicons.dev)
 </br>
