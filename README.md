@@ -14,9 +14,10 @@
 
 <h3>Front-End</h3>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=ffffff&style=for-the-badge" alt="mail_icon"/>
-<img src="https://img.shields.io/badge/Next.js-ffffff?logo=nextdotjs&logoColor=000000&style=for-the-badge" alt="mail_icon"/>
-
+<div style="display:flex;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=ffffff&style=for-the-badge" alt="mail_icon"/>
+  <img src="https://img.shields.io/badge/Next.js-ffffff?logo=nextdotjs&logoColor=000000&style=for-the-badge" alt="mail_icon"/>
+</div>div
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,bootstrap)](https://skillicons.dev)
 </br>
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux)](https://skillicons.dev)
