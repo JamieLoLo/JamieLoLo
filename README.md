@@ -1,6 +1,4 @@
-<img src="./cover1.gif" style="width:100%;min-width:100%;object-fit:contain;" width="100%" height="auto" />
-
-[Photo by Gabriel Vasconcelos on Pinterest](https://www.pinterest.com/pin/149463281367079974/)
+<img src="./cover.gif" style="width:100%;min-width:100%;object-fit:contain;" width="100%" height="auto" />
 
 <h3>CONTACT</h3>
 
