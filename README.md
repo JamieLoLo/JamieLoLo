@@ -5,7 +5,7 @@
 <a href="mailto:jamielo0320@gmail.com">
   <img src="https://img.shields.io/badge/jamielo0320@gmail.com-ffffff?logo=gmail&logoColor=EA4234&style=for-the-badge" alt="mail_icon"/>
 </a>
-
+</br>
 <a href="https://www.linkedin.com/in/jamie-lo-lolo/">
   <img src="https://img.shields.io/badge/LINKEDIN-0B66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="linkedin_icon"/>
 </a>
