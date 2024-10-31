@@ -1,6 +1,6 @@
 <img src="./cover.gif" style="width:100%;min-width:100%;object-fit:contain;" width="100%" height="auto" />
 
-<h3>CONTACT</h3>
+<h3>Contact</h3>
 
 <a href="mailto:jamielo0320@gmail.com">
   <img src="https://img.shields.io/badge/jamielo0320@gmail.com-ffffff?logo=gmail&logoColor=EA4234&style=for-the-badge" alt="mail_icon"/>
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-0B66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="linkedin_icon"/>
 </a>
 
-<h3>BLOG</h3>
+<h3>Blog</h3>
 
 [![](https://img.shields.io/badge/MEDIUM-242937?logo=medium&logoColor=fff&style=for-the-badge)](https://medium.com/@jamielolo)
 
