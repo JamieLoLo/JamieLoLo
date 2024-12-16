@@ -14,6 +14,8 @@
 
 [![](https://img.shields.io/badge/MEDIUM-242937?logo=medium&logoColor=fff&style=for-the-badge)](https://medium.com/@jamielolo)
 
+---
+
 <h3>Front-End</h3>
 
 <div style="display:flex;">
@@ -64,3 +66,13 @@
   <img src="https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=ffffff&style=for-the-badge" alt="postman_icon"/>
   <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=ffffff&style=for-the-badge" alt="git_icon"/>
 </div>
+
+---
+
+<h3>Contribution</h3>
+
+<b>Traditional Chinese Translation Progress for React Documentation:</b>
+<ul>
+  <li><a href="https://github.com/reactjs/zh-hant.react.dev/pull/483">Your First Component (#483)</a></li>
+  <li><a href="https://github.com/reactjs/zh-hant.react.dev/pull/484">Importing and Exporting Components (#484)</a></li>
+</ul>
